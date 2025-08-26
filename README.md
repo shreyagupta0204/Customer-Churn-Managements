@@ -41,5 +41,3 @@ This project is a **machine learning-based web app** designed to predict whether
 
 ---
 
-## 📂 Project Structure  
-Customer-Churn-Management-app/ ├── templates/ │ ├── index.html # Web interface template for input and prediction │ ├── app.py # Flask application file
